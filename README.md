@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/OperationCaribbeanSummer/test-repository?label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+<!-- [![GitHub stars](https://img.shields.io/github/stars/OperationCaribbeanSummer/test-repository?label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 ![GitHub forks](https://img.shields.io/github/forks/OperationCaribbeanSummer/test-repository?label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)
 ![GitHub watchers](https://img.shields.io/github/watchers/OperationCaribbeanSummer/test-repository?label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)
 
@@ -35,7 +35,7 @@ ORG
 
 [![Website url](https://img.shields.io/badge/https://-OperationCaribbeanSummer.com-blue?style=flat&logo=google-chrome)](http://OperationCaribbeanSummer.com/)
 [![Website status](https://img.shields.io/website-up-down-green-red/http/OperationCaribbeanSummer.com.svg)](http://OperationCaribbeanSummer.com/)
-[![email](https://img.shields.io/badge/Email-co2mm.esperanto@gmail.com-blue?style=flat&logo=gmail)](mailto:co2mm.esperanto@gmail.com)
+[![email](https://img.shields.io/badge/Email-co2mm.esperanto@gmail.com-blue?style=flat&logo=gmail)](mailto:co2mm.esperanto@gmail.com) -->
 
 ## Description
 
