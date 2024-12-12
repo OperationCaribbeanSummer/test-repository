@@ -96,10 +96,6 @@ test feat #3
 
 feature [#15](https://github.com/OperationCaribbeanSummer/test-repository/issues/15)
 
-`feat #15`
-
-feat #15
-
 ## Contribute
 
 test changelog
