@@ -26,8 +26,20 @@ jobs:
     steps:
       - id: automerge
         name: automerge
-        uses: "pascalgn/automerge-action@v0.16.4"
+        uses: 'pascalgn/automerge-action@v0.16.4'
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_LABELS: "automerge,autorelease: tagged,autorelease: pending"
-          MERGE_REMOVE_LABELS: "automerge"
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+          MERGE_LABELS: 'automerge, merge, autorelease: tagged, autorelease: pending, !work in progress, !wip'
+          MERGE_REMOVE_LABELS: 'automerge, merge'
+          MERGE_METHOD: 'merge'
+          MERGE_COMMIT_MESSAGE: ':twisted_rightwards_arrows: Merge #{pullRequest.number} ({pullRequest.title})'
+          # MERGE_FORKS: false
+          # UPDATE_LABELS: 'merge'
+          # UPDATE_METHOD: 'merge'
+      - name: Delete merged branch
+        uses: koj-co/delete-merged-action@master
+        with:
+          branches: '!main, !production, *'
+        env:
+          GITHUB_TOKEN: '${{ secrets.GH_PAT }}'
+# C:\Users\Susana\Desktop\@github actions [ref]-----\!!!+++++ repo-file-sync-action-master\!!!+++++ github-files-78dde129e83920191669ee7c7afc40fabbb1bc0c\workflows\pull-request
