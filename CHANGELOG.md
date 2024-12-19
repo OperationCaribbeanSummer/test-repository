@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.15.0](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.14.0...v3.15.0) (2024-12-19)
+
+
+### Features
+
+* add gh actions ([888bd45](https://github.com/OperationCaribbeanSummer/test-repository/commit/888bd45ed72150d375baca29dfc76d1d0d8e7799))
+
+
+### Bug Fixes
+
+* Update README.md ([518ea2c](https://github.com/OperationCaribbeanSummer/test-repository/commit/518ea2c267ed18641a4990cdd2f67ee9e8723305))
+
 ## [3.14.0](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.13.0...v3.14.0) (2024-12-18)
 
 
