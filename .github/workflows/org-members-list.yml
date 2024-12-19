@@ -4,14 +4,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  runs-on: ubuntu-latest
-  name: Action to update the member's list
-  steps:
-    - name: Member List
-      id: list-members
-      uses: RITct/members-list-action@main
-      with:
-        org-name: OperationCaribbeanSummer
-        file-path: '.github/org-members.json'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run:
+    runs-on: ubuntu-latest
+    name: Action to update the member's list
+    steps:
+      - name: Member List
+        id: list-members
+        uses: RITct/members-list-action@main
+        with:
+          org-name: OperationCaribbeanSummer
+          file-path: '.github/org-members.json'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
