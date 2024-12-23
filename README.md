@@ -1,3 +1,7 @@
+# Test Repository [🧪]
+
+# 🧪 Test Repository
+
 <!-- [![GitHub stars](https://img.shields.io/github/stars/OperationCaribbeanSummer/test-repository?label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 ![GitHub forks](https://img.shields.io/github/forks/OperationCaribbeanSummer/test-repository?label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)
 ![GitHub watchers](https://img.shields.io/github/watchers/OperationCaribbeanSummer/test-repository?label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)
@@ -24,6 +28,7 @@
 
 [![OpenCollective](https://opencollective.com/OperationCaribbeanSummer/backers/badge.svg)](https://opencollective.com/OperationCaribbeanSummer/)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 
 ---
 
@@ -35,11 +40,18 @@ ORG
 
 [![Website url](https://img.shields.io/badge/https://-OperationCaribbeanSummer.com-blue?style=flat&logo=google-chrome)](http://OperationCaribbeanSummer.com/)
 [![Website status](https://img.shields.io/website-up-down-green-red/http/OperationCaribbeanSummer.com.svg)](http://OperationCaribbeanSummer.com/)
-[![email](https://img.shields.io/badge/Email-co2mm.esperanto@gmail.com-blue?style=flat&logo=gmail)](mailto:co2mm.esperanto@gmail.com) -->
+[![email](https://img.shields.io/badge/Email-co2mm.esperanto@gmail.com-blue?style=flat&logo=gmail)](mailto:co2mm.esperanto@gmail.com)
+-->
+
+[![Last commit](https://img.shields.io/github/last-commit/OperationCaribbeanSummer/test-repository.svg?style=flat)](https://github.com/OperationCaribbeanSummer/test-repository/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OperationCaribbeanSummer/test-repository)](https://github.com/OperationCaribbeanSummer/test-repository/commits)
+
+[![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fcubaweather.app)](https://OperationCaribbeanSummer.com)
+[![GitHub contributors](https://img.shields.io/github/contributors/OperationCaribbeanSummer/test-repository)](https://github.com/OperationCaribbeanSummer/test-repository/graphs/contributors)
 
 ## Description
 
-**Welcome to your organization's demo respository**
+==Welcome to your organization's demo respository==
 
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
@@ -79,8 +91,9 @@ feat test
 
 test changelog
 
------
------
+---
+
+---
 
 ## Contributors
 
