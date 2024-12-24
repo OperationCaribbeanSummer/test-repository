@@ -18,10 +18,10 @@ jobs:
           readme_path: 'README.md'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-    # steps:
-      - name: Contribute List 2
-        uses: akhilmhdh/contributors-readme-action@v2.3.10
-        with:
-          readme_path: 'CONTRIBUTORS.md'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+    # # steps:
+    #   - name: Contribute List 2
+    #     uses: akhilmhdh/contributors-readme-action@v2.3.10
+    #     with:
+    #       readme_path: 'CONTRIBUTORS.md'
+    #     env:
+    #       GITHUB_TOKEN: ${{ secrets.GH_PAT }}
