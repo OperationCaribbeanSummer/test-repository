@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.15.1](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.15.0...v3.15.1) (2024-12-24)
+
+
+### Bug Fixes
+
+* Update org-members-list.yml ([de94ad6](https://github.com/OperationCaribbeanSummer/test-repository/commit/de94ad6f00d8a03be519ce88edff12d65a9ca737))
+* Update org-members-list.yml ([7247324](https://github.com/OperationCaribbeanSummer/test-repository/commit/7247324761fea5138764d3cd1cb21fd818af5b99))
+
 ## [3.15.0](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.14.0...v3.15.0) (2024-12-19)
 
 
