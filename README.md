@@ -1,6 +1,6 @@
-# Test Repository [🧪]
-
 # 🧪 Test Repository
+
+<span align="center"><img src=".github/assets/OperationCaribbeanSummer-logo-anime.svg" alt="OperationCaribbeanSummer logo" /></span>
 
 <!-- [![GitHub stars](https://img.shields.io/github/stars/OperationCaribbeanSummer/test-repository?label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 ![GitHub forks](https://img.shields.io/github/forks/OperationCaribbeanSummer/test-repository?label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)
@@ -46,7 +46,6 @@ ORG
 [![Last commit](https://img.shields.io/github/last-commit/OperationCaribbeanSummer/test-repository.svg?style=flat)](https://github.com/OperationCaribbeanSummer/test-repository/commits)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OperationCaribbeanSummer/test-repository)](https://github.com/OperationCaribbeanSummer/test-repository/commits)
 
-[![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fcubaweather.app)](https://OperationCaribbeanSummer.com)
 [![GitHub contributors](https://img.shields.io/github/contributors/OperationCaribbeanSummer/test-repository)](https://github.com/OperationCaribbeanSummer/test-repository/graphs/contributors)
 
 ## Description
@@ -189,7 +188,13 @@ From /contributors-readme-action
 
 ## License
 
-[![GPLv3 license](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://github.com/OperationCaribbeanSummer/test-repository/blob/main/LICENSE)
-[![GPLv3 license](https://img.shields.io/badge/License-CC−BY−SA_v4.0-blue.svg)](https://github.com/OperationCaribbeanSummer/test-repository/blob/main/LICENSE-CONTENT)
+<!-- [![GPLv3 license](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://github.com/OperationCaribbeanSummer/test-repository/blob/main/LICENSE)
+[![GPLv3 license](https://img.shields.io/badge/License-CC−BY−SA_v4.0-blue.svg)](https://github.com/OperationCaribbeanSummer/test-repository/blob/main/LICENSE-CONTENT) -->
+
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/OperationCaribbeanSummer/<reponame>/blob/main/LICENSE)
+
+[![CC−BY−SA](https://img.shields.io/badge/License-CC−BY−SA_v4.0-blue.svg)](https://github.com/OperationCaribbeanSummer/<reponame>/blob/main/LICENSE-CONTENT)
 
 <p align="center"><img src="https://profile-counter.glitch.me/{OperationCaribbeanSummer}/count.svg" alt="OperationCaribbeanSummer :: Visitor's Count" /></p>
+
+<span align="center"><img src=".github/assets/wave-OperationCaribbeanSummer.svg" alt="wave OperationCaribbeanSummer" /></span>
