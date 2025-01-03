@@ -1,8 +1,8 @@
-name: test yml workflows
+name: test CI
 on:
   workflow_dispatch:
-#   schedule:
-    # - cron: "3 2 1 * *"
+  pull_request:
+    types: [opened]
 
 permissions:
   issues: read
@@ -16,25 +16,4 @@ jobs:
       - name: Print constants
         shell: bash
         run: |
-          # Calculate the first day of the previous month
-          start_date=$(date -d "last month" +%Y-%m-01)
-
-          # Calculate the last day of the previous month
-          end_date=$(date -d "$start_date +1 month -1 day" +%Y-%m-%d)
-
-          #Set an environment variable with the date range
-          echo "START_DATE=$start_date" >> "$GITHUB_ENV"
-          echo "END_DATE=$end_date" >> "$GITHUB_ENV"
-
-          echo ${{ vars.APP_ID }}
-          echo ${{ secret.API_KEY }}
-          echo secret.API_KEY = $secret.API_KEY
-          echo ${{ env.APP_ID }}
-          echo ${{ github.repository }}
-          echo ${{ github.actor }}
-          echo $LABEL_CONFIG_PATH
-          echo $LABEL_REPOSITORY
-          echo ${{ github.repository_owner }}
-        #   echo 
-        #   echo 
-        #   echo 
+          # test
