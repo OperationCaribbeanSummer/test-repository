@@ -1,51 +1,64 @@
 # 🧪 Test Repository
 
-<span align="center"><img src=".github/assets/OperationCaribbeanSummer-logo-anime.svg" alt="OperationCaribbeanSummer logo" /></span>
+[![followers](https://custom-icon-badges.demolab.com/github/followers/OperationCaribbeanSummer?logo=person-add&style=social&logoColor=black)](https://github.com/org/OperationCaribbeanSummer)
+![GitHub stars](https://custom-icon-badges.demolab.com/github/stars/OperationCaribbeanSummer/test-repository?label=Stars&logo=star&logoColor=ffffff&labelColor=282828&color=663399&style=flat)
+![GitHub forks](https://custom-icon-badges.demolab.com/github/forks/OperationCaribbeanSummer/test-repository?label=Forks&logo=fork&logoColor=ffffff&labelColor=282828&color=663399&style=flat)
+![GitHub watchers](https://custom-icon-badges.demolab.com/github/watchers/OperationCaribbeanSummer/test-repository?label=Watchers&logoColor=ffffff&labelColor=282828&color=663399&style=flat&logo=eye)
 
-[![GitHub stars](https://img.shields.io/github/stars/OperationCaribbeanSummer/test-repository?label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=663399&style=flat)]()
-![GitHub forks](https://img.shields.io/github/forks/OperationCaribbeanSummer/test-repository?label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=663399&style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/OperationCaribbeanSummer/test-repository?label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=663399&style=flat)
+[![GitHub release](https://custom-icon-badges.demolab.com/github/release/OperationCaribbeanSummer/test-repository.svg?color=663399&style=flat&logo=tag)](https://GitHub.com/OperationCaribbeanSummer/test-repository/releases/)
+[![GitHub branches](https://badgen.net/github/branches/OperationCaribbeanSummer/test-repository?color=663399&style=flat)](https://github.com/OperationCaribbeanSummer/test-repository/branches)
+[![GitHub commit activity](https://custom-icon-badges.demolab.com/github/commit-activity/t/OperationCaribbeanSummer/test-repository?color=663399&style=flat&logo=git-commit)](https://GitHub.com/OperationCaribbeanSummer/test-repository/commit/)
+[![GitHub commit activity](https://custom-icon-badges.demolab.com/github/commit-activity/m/OperationCaribbeanSummer/test-repository?color=663399&style=flat&logo=git-commit)](https://github.com/OperationCaribbeanSummer/test-repository/commits)
+[![Last commit](https://custom-icon-badges.demolab.com/github/last-commit/OperationCaribbeanSummer/test-repository.svg?style=flat&logo=history&color=663399)](https://github.com/OperationCaribbeanSummer/test-repository/commits)
 
-[![GitHub release](https://img.shields.io/github/release/OperationCaribbeanSummer/test-repository.svg)](https://GitHub.com/OperationCaribbeanSummer/test-repository/releases/)
-[![GitHub branches](https://badgen.net/github/branches/OperationCaribbeanSummer/test-repository)](https://github.com/OperationCaribbeanSummer/test-repository/branches)
-[![GitHub commits](https://badgen.net/github/commits/OperationCaribbeanSummer/test-repository)](https://GitHub.com/OperationCaribbeanSummer/test-repository/commit/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OperationCaribbeanSummer/test-repository)](https://github.com/OperationCaribbeanSummer/test-repository/commits)
-[![Last commit](https://img.shields.io/github/last-commit/OperationCaribbeanSummer/test-repository.svg?style=flat)](https://github.com/OperationCaribbeanSummer/test-repository/commits)
+[![GitHub total milestones](https://custom-icon-badges.demolab.com/github/milestones/all/OperationCaribbeanSummer/test-repository?label=total%20milestones&color=663399&logo=milestone)]()
+[![GitHub open milestones](https://custom-icon-badges.demolab.com/github/milestones/open/OperationCaribbeanSummer/test-repository?color=663399&logo=milestone)]()
+[![GitHub closed milestones](https://custom-icon-badges.demolab.com/github/milestones/closed/OperationCaribbeanSummer/test-repository?color=663399&logo=milestone)]() |
+[![GitHub issues](https://custom-icon-badges.demolab.com/github/issues/OperationCaribbeanSummer/test-repository?color=663399&logo=issue-opened)]()
+[![GitHub closed issues](https://custom-icon-badges.demolab.com/github/issues-closed/OperationCaribbeanSummer/test-repository?color=663399&logo=issue-opened)]() |
+[![GitHub pull requests](https://custom-icon-badges.demolab.com/github/issues-pr/OperationCaribbeanSummer/test-repository?color=663399&logo=pr)]()
+[![GitHub closed pull requests](https://custom-icon-badges.demolab.com/github/issues-pr-closed/OperationCaribbeanSummer/test-repository?color=663399&logo=pr)]()
 
-![GitHub total milestones](https://img.shields.io/github/milestones/all/OperationCaribbeanSummer/test-repository?label=total%20milestones&color=663399)
-![GitHub open milestones](https://img.shields.io/github/milestones/open/OperationCaribbeanSummer/test-repository?color=663399)
-![GitHub closed milestones](https://img.shields.io/github/milestones/closed/OperationCaribbeanSummer/test-repository?color=663399)
-![GitHub issues](https://img.shields.io/github/issues/OperationCaribbeanSummer/test-repository?color=663399)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/OperationCaribbeanSummer/test-repository?color=663399) |
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OperationCaribbeanSummer/test-repository?color=663399)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/OperationCaribbeanSummer/test-repository?color=663399)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/OperationCaribbeanSummer/test-repository?logo=github&color=red)
-![GitHub downloads (all assets, all releases)](https://img.shields.io/github/downloads/OperationCaribbeanSummer/test-repository/total?logo=github&label=repo%20downloads)
+![GitHub repo size](https://custom-icon-badges.demolab.com/github/repo-size/OperationCaribbeanSummer/test-repository?logo=file-code&color=red)
+![GitHub downloads (all assets, all releases)](https://custom-icon-badges.demolab.com/github/downloads/OperationCaribbeanSummer/test-repository/total?logo=download&label=repo%20downloads)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/OperationCaribbeanSummer/test-repository/graphs/commit-activity)
+
+[![All repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?&style=flat&logoColor=white&logo=repo)](https://github.com/orgs/OperationCaribbeanSummer/repositories)
+[![downloads](https://custom-icon-badges.demolab.com/badge/-Downloads-F25278?&style=flat&logo=download&logoColor=white)]()
+[![discuss](https://custom-icon-badges.demolab.com/badge/-Discuss-plum?&style=flat&logo=comment-discussion&logoColor=black)](https://github.com/orgs/OperationCaribbeanSummer/discussions)
+[![phone](https://custom-icon-badges.demolab.com/badge/-+53--5843--9494-orange?&style=flat&logo=phone&logoColor=white)](sms://+5358439494)
+[![email](https://custom-icon-badges.demolab.com/badge/-co2mm.esperanto@gmail.com-E61B23?&style=flat&logo=mail&logoColor=white)](mailto:co2mm.esperanto@gmail.com)
+[![location](https://custom-icon-badges.demolab.com/badge/Havana-Cuba-purple?&style=flat&logo=location&logoColor=white)](geo:23.1351437,-82.3889117)
+
 [![Contributors](https://img.shields.io/github/contributors/OperationCaribbeanSummer/test-repository.svg)](https://github.com/OperationCaribbeanSummer/test-repository/contributors/ 'Contributors')
-[![Backers on Open Collective](https://opencollective.com/commitizen/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/commitizen/sponsors/badge.svg)](#sponsors)
+[![OpenCollective](https://opencollective.com/OperationCaribbeanSummer/backers/badge.svg)](https://opencollective.com/OperationCaribbeanSummer/)
+[![sponsors](https://custom-icon-badges.demolab.com/badge/Sponsors-D15E9B.svg?logo=heart)](https://github.com/sponsors/OperationCaribbeanSummer)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Ask us anything !](https://custom-icon-badges.demolab.com/badge/Ask%20Us-anything-1abc9c.svg?logo=comment-discussion)](https://github.com/orgs/OperationCaribbeanSummer/discussions)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-[![Ask us anything !](https://img.shields.io/badge/Ask%20Us-anything-1abc9c.svg)](https://github.com/orgs/OperationCaribbeanSummer/discussions)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
-[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Airbnb JavaScript Style Guide](https://img.shields.io/badge/code_style-Airbnb-brightgreen.svg)](https://github.com/airbnb/javascript)
-[![commitlint standard](https://img.shields.io/badge/commitlint-config-conventional-brightgreen.svg)](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional)
-@commitlint/config-conventional++++++++++
-https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional++++++++++
-[![OpenAPI specification](https://img.shields.io/badge/OpenAPI-specification-brightgreen.svg)](http://swagger.io/specification)
-OpenAPI specification
-http://swagger.io/specification
+<!-- standards start -->
 
-<!-- [![OpenCollective](https://opencollective.com/OperationCaribbeanSummer/backers/badge.svg)](https://opencollective.com/OperationCaribbeanSummer/) -->
+[![semantic-release: angular](https://img.shields.io/badge/%E2%9C%93_semantic--release-angular-brightgreen)](https://github.com/semantic-release/semantic-release)
+[![Airbnb JavaScript Style Guide](https://img.shields.io/badge/%E2%9C%93_code_style-Airbnb-brightgreen.svg)](https://github.com/airbnb/javascript)
+[![commitlint config-conventional](https://img.shields.io/badge/%E2%9C%93_commitlint-config_conventional-brightgreen.svg)](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional)
+[![Commitizen friendly](https://img.shields.io/badge/%E2%9C%93_commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![check GitHub Flow](https://img.shields.io/badge/%E2%9C%93_Branching_strategy-GitHub_Flow-brightgreen.svg)](4444.md)
+[![check OpenAPI-Specification](https://img.shields.io/badge/%E2%9C%93_OpenAPI-Specification-brightgreen.svg)](https://github.com/OAI/OpenAPI-Specification/)
+
+<!--
+[![check ](https://img.shields.io/badge/%E2%9C%93-4444-brightgreen.svg)](4444.md)
+[![check ](https://img.shields.io/badge/%E2%9C%93-4444-brightgreen.svg)](4444.md)
+[![check ](https://img.shields.io/badge/%E2%9C%93-4444-brightgreen.svg)](4444.md)
+-->
+
+<!-- standards end -->
 
 ---
 
-## ORG
+ORG
 
 [![GitHub followers](https://img.shields.io/github/followers/OperationCaribbeanSummer?label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=663399&style=flat)]()
 [![GitHub user stars](https://img.shields.io/github/stars/OperationCaribbeanSummer?affiliations=OWNER&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=663399&style=flat)]()
@@ -94,19 +107,6 @@ https://badgen.net/bundlephobia/minzip/react
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/OperationCaribbeanSummer?label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=663399&style=flat)]()
-[![GitHub user stars](https://img.shields.io/github/stars/OperationCaribbeanSummer?affiliations=OWNER&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=663399&style=flat)]()
-[![GitHub discussions](https://img.shields.io/github/discussions/OperationCaribbeanSummer/test-repository?logo=GitHub&logoColor=ffffff&labelColor=282828&color=663399&style=flat)]()
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/OperationCaribbeanSummer/test-repository?color=663399)
-![GitHub Release](https://img.shields.io/github/v/release/OperationCaribbeanSummer/test-repository?display_name=release&style=flat&color=663399)
-![GitHub last commit](https://img.shields.io/github/last-commit/OperationCaribbeanSummer/test-repository?style=flat&color=663399)
-![GitHub Release Date](https://img.shields.io/github/release-date/OperationCaribbeanSummer/test-repository?style=flat&color=663399)
-
----
-
----
-
 ---
 
 [![Build Status](http://img.shields.io/travis/doge/wow.svg)](https://travis-ci.org/doge/wow)
@@ -118,9 +118,7 @@ https://badgen.net/bundlephobia/minzip/react
 
 ## :heart: VitePress Top Contributors
 
-[![](https://github.com/brc-dd.png?size=50)](https://github.com/brc-dd)
 [![](https://github.com/yyx990803.png?size=50)](https://github.com/yyx990803)
-[![](https://github.com/kiaking.png?size=50)](https://github.com/kiaking)
 
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/JaviRamosLab?logo=npm&label=NPM%20downloads)
 [![Website JaviRamosLab.com](https://img.shields.io/website-up-down-green-red/http/JaviRamosLab.com.svg)](http://JaviRamosLab.com/)
@@ -149,8 +147,6 @@ YouTube Channel Views
 - [![Package quality](https://packagequality.com/shield/yourpackage.svg)](https://packagequality.com/#?package=yourpackage)
   [![Package quality](https://packagequality.com/badge/yourpackage.png)](https://packagequality.com/#?package=yourpackage)
 -
-
-![Info](https://img.shields.io/badge/Project-Info-blue?style=flat-square&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggc3R5bGU9ImZpbGw6IzBBNEVBRjsiIGQ9Ik0yNTYsNTEyYy02OC4zOCwwLTEzMi42NjctMjYuNjI5LTE4MS4wMi03NC45OEMyNi42MjksMzg4LjY2NywwLDMyNC4zOCwwLDI1Ng0KCVMyNi42MjksMTIzLjMzMyw3NC45OCw3NC45OEMxMjMuMzMzLDI2LjYyOSwxODcuNjIsMCwyNTYsMHMxMzIuNjY3LDI2LjYyOSwxODEuMDIsNzQuOThDNDg1LjM3MSwxMjMuMzMzLDUxMiwxODcuNjIsNTEyLDI1Ng0KCXMtMjYuNjI5LDEzMi42NjctNzQuOTgsMTgxLjAyQzM4OC42NjcsNDg1LjM3MSwzMjQuMzgsNTEyLDI1Niw1MTJ6Ii8+DQo8cGF0aCBzdHlsZT0iZmlsbDojMDYzRThCOyIgZD0iTTQzNy4wMiw3NC45OEMzODguNjY3LDI2LjYyOSwzMjQuMzgsMCwyNTYsMHY1MTJjNjguMzgsMCwxMzIuNjY3LTI2LjYyOSwxODEuMDItNzQuOTgNCglDNDg1LjM3MSwzODguNjY3LDUxMiwzMjQuMzgsNTEyLDI1NlM0ODUuMzcxLDEyMy4zMzMsNDM3LjAyLDc0Ljk4eiIvPg0KPHBhdGggc3R5bGU9ImZpbGw6I0ZGRkZGRjsiIGQ9Ik0yNTYsMTg1Yy0zMC4zMjcsMC01NS0yNC42NzMtNTUtNTVzMjQuNjczLTU1LDU1LTU1czU1LDI0LjY3Myw1NSw1NVMyODYuMzI3LDE4NSwyNTYsMTg1eiBNMzAxLDM5NQ0KCVYyMTVIMTkxdjMwaDMwdjE1MGgtMzB2MzBoMTQwdi0zMEgzMDF6Ii8+DQo8Zz4NCgk8cGF0aCBzdHlsZT0iZmlsbDojQ0NFRkZGOyIgZD0iTTI1NiwxODVjMzAuMzI3LDAsNTUtMjQuNjczLDU1LTU1cy0yNC42NzMtNTUtNTUtNTVWMTg1eiIvPg0KCTxwb2x5Z29uIHN0eWxlPSJmaWxsOiNDQ0VGRkY7IiBwb2ludHM9IjMwMSwzOTUgMzAxLDIxNSAyNTYsMjE1IDI1Niw0MjUgMzMxLDQyNSAzMzEsMzk1IAkiLz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjwvc3ZnPg0K)
 
 ## YouTube video
 
@@ -303,9 +299,9 @@ From /contributors-readme-action
 <!-- [![GPLv3 license](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://github.com/OperationCaribbeanSummer/test-repository/blob/main/LICENSE)
 [![GPLv3 license](https://img.shields.io/badge/License-CC−BY−SA_v4.0-blue.svg)](https://github.com/OperationCaribbeanSummer/test-repository/blob/main/LICENSE-CONTENT) -->
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/OperationCaribbeanSummer/<reponame>/blob/main/LICENSE)
+[![MIT license](https://custom-icon-badges.demolab.com/badge/license-MIT-blue.svg?logo=law)](https://raw.githubusercontent.com/OperationCaribbeanSummer/test-repository/blob/main/LICENSE)
 
-[![CC−BY−SA](https://img.shields.io/badge/License-CC−BY−SA_v4.0-blue.svg)](https://github.com/OperationCaribbeanSummer/<reponame>/blob/main/LICENSE-CONTENT)
+[![CC−BY−SA](https://custom-icon-badges.demolab.com/badge/License-CC−BY−SA_v4.0-blue.svg?logo=law)](https://github.com/OperationCaribbeanSummer/test-repository/blob/main/LICENSE-CONTENT)
 
 <p align="center"><img src="https://profile-counter.glitch.me/{OperationCaribbeanSummer}/count.svg" alt="OperationCaribbeanSummer :: Visitor's Count" /></p>
 
