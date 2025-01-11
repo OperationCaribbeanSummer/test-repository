@@ -1,9 +1,9 @@
 name: Test CI
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   test:
@@ -24,3 +24,12 @@ jobs:
 
       - name: Run tests
         run: npm run test
+
+      - name: Run coverage
+        run: npm run coverage
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v5
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          slug: JaviRamosLab/test-repository
