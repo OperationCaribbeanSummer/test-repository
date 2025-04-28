@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.15.2](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.15.1...v3.15.2) (2025-01-11)
+
+
+### Bug Fixes
+
+* eslint config ([175041e](https://github.com/OperationCaribbeanSummer/test-repository/commit/175041e33434aa8459287ee421ea7f949ca24451))
+
 ## [3.15.1](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.15.0...v3.15.1) (2024-12-24)
 
 

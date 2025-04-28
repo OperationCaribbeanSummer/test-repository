@@ -1,4 +1,4 @@
-name: Test CI
+name: Codecov
 on:
   workflow_dispatch:
   # push:
@@ -6,8 +6,8 @@ on:
   #     - main
 
 jobs:
-  test:
-    name: Test
+  codecov:
+    name: Test, coverage and Codecov
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,3 +24,12 @@ jobs:
 
       - name: Run tests
         run: npm run test
+
+      - name: Run coverage
+        run: npm run coverage
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v5
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          slug: OperationCaribbeanSummer/test-repository
