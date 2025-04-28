@@ -1,7 +1,7 @@
 {
   "name": "test-repository",
   "version": "3.15.1",
-  "description": "Test repo+",
+  "description": "🧪Test repo+",
   "keywords": "[democracy,liquidDemocracy,onlineDemocracy,webDemocracy]",
   "homepage": "https://github.com/OperationCaribbeanSummer/test-repository#readme",
   "bugs": {
@@ -41,6 +41,7 @@
     "jest": "^29.7.0",
     "nodemon": "^3.0.3",
     "prettier": "^3.4.2",
+    "semantic-release": "^24.2.3",
     "vitepress": "^1.5.0"
   },
   "readmeFilename": "README.md"
