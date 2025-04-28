@@ -1,37 +1,74 @@
-name: Releases
+name: Release
 on:
   push:
     branches:
       - main
 
+permissions:
+  contents: read # for checkout
+
 jobs:
   release:
+    name: Release
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # to be able to publish a GitHub release
+      issues: write # to be able to comment on released issues
+      pull-requests: write # to be able to comment on released pull requests
+      id-token: write # to enable use of OIDC for npm provenance
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Install deps
-        run: npm ci
-
-      # - name: Build
-      #   run: npm run build
-
-      # - run: git add dist -f
-
-      - name: Generate changelog
-        id: changelog
-        uses: ./
         with:
-          github-token: ${{ secrets.CHANGELOG_RELEASE }}
-          create-summary: true
-
-      - name: Create Release
-        uses: actions/create-release@v1
-        if: steps.changelog.outputs.skipped != 'true'
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+      - name: Install dependencies
+        run: npm clean-install
+      - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
+        run: npm audit signatures
+      - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.CHANGELOG_RELEASE }}
-        with:
-          tag_name: ${{ steps.changelog.outputs.tag }}
-          release_name: ${{ steps.changelog.outputs.tag }}
-          body: ${{ steps.changelog.outputs.clean_changelog }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npx semantic-release
+
+# name: Releases
+# on:
+#   push:
+#     branches:
+#       - main
+
+# jobs:
+#   release:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout code
+#         uses: actions/checkout@v4
+
+#       - name: Install deps
+#         run: npm ci
+
+#       # - name: Build
+#       #   run: npm run build
+
+#       # - run: git add dist -f
+
+#       - name: Generate changelog
+#         id: changelog
+#         uses: ./
+#         with:
+#           github-token: ${{ secrets.CHANGELOG_RELEASE }}
+#           create-summary: true
+
+#       - name: Create Release
+#         uses: actions/create-release@v1
+#         if: steps.changelog.outputs.skipped != 'true'
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.CHANGELOG_RELEASE }}
+#         with:
+#           tag_name: ${{ steps.changelog.outputs.tag }}
+#           release_name: ${{ steps.changelog.outputs.tag }}
+#           body: ${{ steps.changelog.outputs.clean_changelog }}
