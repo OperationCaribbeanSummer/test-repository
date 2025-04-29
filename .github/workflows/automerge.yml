@@ -41,5 +41,5 @@ jobs:
         with:
           branches: '!main, !production, *'
         env:
-          GITHUB_TOKEN: '${{ secrets.GH_PAT }}'
+          GITHUB_TOKEN: '${{ secrets.GH_TOKEN }}'
 # C:\Users\Susana\Desktop\@github actions [ref]-----\!!!+++++ repo-file-sync-action-master\!!!+++++ github-files-78dde129e83920191669ee7c7afc40fabbb1bc0c\workflows\pull-request
