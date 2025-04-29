@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.17.0](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.16.0...v3.17.0) (2025-04-29)
+
+
+### Features
+
+* testing release 2 ([8ded598](https://github.com/OperationCaribbeanSummer/test-repository/commit/8ded598ad4f63c038036b0ae38d610e5b7ef9563))
+
 ## [3.16.0](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.15.2...v3.16.0) (2025-04-29)
 
 
