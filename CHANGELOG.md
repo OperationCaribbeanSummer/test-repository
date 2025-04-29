@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.16.0](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.15.2...v3.16.0) (2025-04-29)
+
+
+### Features
+
+* Merge branch 'main' of https://github.com/OperationCaribbeanSummer/test-repository ([92e7224](https://github.com/OperationCaribbeanSummer/test-repository/commit/92e722472d1cede7f658d7d5ee3e10719d850beb))
+* test releaser action ([a8d7bbd](https://github.com/OperationCaribbeanSummer/test-repository/commit/a8d7bbdfa3d1da7f57e879cc16fe886e26d16f9b))
+* Update package.json ([7359f5d](https://github.com/OperationCaribbeanSummer/test-repository/commit/7359f5ddf110d15827da70c720ea1df8590eeedb))
+* Update release.yml ([4599e45](https://github.com/OperationCaribbeanSummer/test-repository/commit/4599e45c6dc0a6d382841e13680b754e3baac94d))
+* Update release.yml ([f98abd5](https://github.com/OperationCaribbeanSummer/test-repository/commit/f98abd5c03a18bedceb29c1d0f5ea691f5eb53fd))
+* Update token ([921b1ed](https://github.com/OperationCaribbeanSummer/test-repository/commit/921b1ed19ad0b41b82e7d2a3c1efa552a283f437))
+
 ## [3.15.2](https://github.com/OperationCaribbeanSummer/test-repository/compare/v3.15.1...v3.15.2) (2025-01-11)
 
 
