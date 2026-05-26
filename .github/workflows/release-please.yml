@@ -17,7 +17,8 @@ jobs:
         id: release
         with:
           release-type: node
-          token: ${{ secrets.CHANGELOG_RELEASE }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # token: ${{ secrets.CHANGELOG_RELEASE }}
           config-file: .github/release-please-config.json
           manifest-file: .github/.release-please-manifest.json
       # - uses: actions/checkout@v4
