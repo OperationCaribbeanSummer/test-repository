@@ -18,6 +18,7 @@ jobs:
         with:
           release-type: node
           token: ${{ secrets.GITHUB_TOKEN }}
+          skip-github-pull-request: true
           # token: ${{ secrets.CHANGELOG_RELEASE }}
           # config-file: .github/release-please-config.json
           # manifest-file: .github/.release-please-manifest.json
